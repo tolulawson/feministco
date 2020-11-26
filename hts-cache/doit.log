@@ -1,0 +1,8 @@
+https://feministcoalition2020.com/ -O /tmp/feministco +*.feministcoalition2020.com/* -v
+File generated automatically on Thu, 26 Nov 2020 19:50:34, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
